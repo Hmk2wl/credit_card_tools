@@ -1,1 +1,1 @@
-Add yolo_bbox2segment docs reference (#7751)
+ultralytics 8.0.228 add training time argument (#7054)
