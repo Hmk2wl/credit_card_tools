@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
